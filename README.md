@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hola! 👋
 
+### Mi nombre es Andrés Bonilla, soy estudiante de Ingeniería de Sistemas 💻
+### Actualmente trabajo como Ingeniero de Desarrollo 
+
+## Contacto
+
+- [email] andres-olarte@hotmail.com
+- [LinkedIn] https://www.linkedin.com/in/abonilla00/
 <!--
 **BlackEagle00/BlackEagle00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
