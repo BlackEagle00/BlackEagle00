@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![JAVA](https://img.shields.io/badge/-Java-red?style=SpringBoot&logo=java)
 ![GIT](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![LINUX](https://img.shields.io/badge/-Linux-grey?style=flat&logo=linux)
 
