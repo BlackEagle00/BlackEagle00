@@ -3,11 +3,6 @@
 ### My name is Andres Bonilla, I'm a Systems Engineer student 💻
 ### Currently, I'm working as Development Engineer
 
-## Contact
-
-- [email] andres-olarte@hotmail.com
-- [LinkedIn] https://www.linkedin.com/in/abonilla00/
-
 ## Tools
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
