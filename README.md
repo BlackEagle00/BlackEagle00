@@ -1,9 +1,9 @@
-# Hola! 👋
+# Hi! 👋
 
-### Mi nombre es Andrés Bonilla, soy estudiante de Ingeniería de Sistemas 💻
-### Actualmente trabajo como Ingeniero de Desarrollo 
+### My name is Andres Bonilla, I'm a Systems Engineer student 💻
+### Currently, I'm working as Development Engineer
 
-## Contacto
+## Contact
 
 - [email] andres-olarte@hotmail.com
 - [LinkedIn] https://www.linkedin.com/in/abonilla00/
