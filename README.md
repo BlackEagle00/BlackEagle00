@@ -9,7 +9,7 @@
 ![JAVA](https://img.shields.io/badge/-Java-red?style=SpringBoot&logo=java)
 ![GIT](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![LINUX](https://img.shields.io/badge/-Linux-grey?style=flat&logo=linux)
-![ELIXIR](https://img.shields.io/badge/-Linux-grey?style=flat&logo=elixir)
+![ELIXIR](https://img.shields.io/badge/-Elixir-purple?style=flat&logo=elixir)
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 
