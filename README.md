@@ -1,7 +1,8 @@
 # Hi! 👋
 
-### My name is Andres Bonilla, I'm a Systems Engineer 💻
-### Currently, I'm working as Backend Engineer
+### My name is Andres Bonilla 💻
+### Msc. Cibersecurity
+### Currently, I'm working as a Cibersecurity Designer
 
 ## Tools
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon&logoColor=white)
